@@ -1,0 +1,75 @@
+#Title{
+    margin-right: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+a:link, a:visited {
+    background-color: rgb(231, 231, 231);
+    color: rgb(0, 0, 0);
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+  }
+
+#active{
+    border-bottom: solid;
+}
+  
+  a:hover, a:active {
+    background-color: rgb(124, 124, 124);
+    border-bottom: solid;
+  }
+
+.top{
+    background-color: rgb(231, 231, 231);
+    width:100%;
+    height: 56px;
+    float: top;
+
+
+}
+.body{
+    background-color: rgb(182, 182, 182);
+    width:100%;
+    height: 1500px;
+    float: center;
+}
+
+#LatestItalyNews{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: -50px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+#pic1{
+    margin-left: 470px;
+    width: 500px;
+    margin-bottom: 60px;
+}
+
+#pic2{
+    margin-left: 15px;
+    width: 500px;
+    margin-bottom: -10px;
+}
+#pic3{
+    margin-left: 15px;
+    width: 500px;
+    margin-bottom: 60px;
+}
+
+.buttom{
+    background-color: rgb(49, 49, 49);
+    width: 100%;
+    height: 350px;
+    float: middle;
+}
+
